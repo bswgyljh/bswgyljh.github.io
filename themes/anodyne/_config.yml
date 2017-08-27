@@ -8,10 +8,10 @@ index_font_awesome_icon_css: fa fa-magic
 
 # Header
 menu:
-  Home: /
-  Archives: /archives
-  About: /about.html
-  Contact: /contact.html
+  主页: /
+  文章: /archives
+  关于: /about.html
+  练习: /contact.html
 
 # Post
 default_post_title: Untitled
